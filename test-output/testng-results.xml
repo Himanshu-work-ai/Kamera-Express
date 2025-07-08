@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-01T14:01:33 IST" name="Default suite" finished-at="2025-07-01T14:02:02 IST" duration-ms="29080">
+    <groups>
+    </groups>
+    <test started-at="2025-07-01T14:01:33 IST" name="Default test" finished-at="2025-07-01T14:02:02 IST" duration-ms="29080">
+      <class name="Seleniums.kameraexpres">
+        <test-method signature="url()[pri:1, instance:Seleniums.kameraexpres@366c4480]" started-at="2025-07-01T14:01:33 IST" name="url" finished-at="2025-07-01T14:01:40 IST" duration-ms="7727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="register()[pri:2, instance:Seleniums.kameraexpres@366c4480]" started-at="2025-07-01T14:01:40 IST" name="register" finished-at="2025-07-01T14:01:48 IST" duration-ms="7332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method signature="home()[pri:3, instance:Seleniums.kameraexpres@366c4480]" started-at="2025-07-01T14:01:48 IST" name="home" finished-at="2025-07-01T14:01:53 IST" duration-ms="4997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+        <test-method signature="camera()[pri:4, instance:Seleniums.kameraexpres@366c4480]" started-at="2025-07-01T14:01:53 IST" name="camera" finished-at="2025-07-01T14:02:01 IST" duration-ms="8353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- camera -->
+        <test-method signature="panasonic()[pri:5, instance:Seleniums.kameraexpres@366c4480]" started-at="2025-07-01T14:02:01 IST" name="panasonic" finished-at="2025-07-01T14:02:02 IST" duration-ms="541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- panasonic -->
+      </class> <!-- Seleniums.kameraexpres -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
